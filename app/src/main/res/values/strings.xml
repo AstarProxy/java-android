@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">astarProxy</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="port">Port</string>
+    <string name="server">Server</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="connect">Connect</string>
+</resources>
